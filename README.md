@@ -125,5 +125,5 @@ El conjunto de datos fue extraído del repositorio de datasets de Kaggle, dicho 
 Revisar las instrucciones en la [carpeta de referencias.](./references)
 
 ## Enlaces de experimentos
-DagsHub + MLflow: https://dagshub.com/MaCh1Ne01/mle-specialization-02.mlflow/
-Modelo Productivo: https://dagshub.com/MaCh1Ne01/mle-specialization-02.mlflow/#/models/CustomerSegmentationModel
+* DagsHub + MLflow: https://dagshub.com/MaCh1Ne01/mle-specialization-02.mlflow/
+* Modelo Productivo: https://dagshub.com/MaCh1Ne01/mle-specialization-02.mlflow/#/models/CustomerSegmentationModel
