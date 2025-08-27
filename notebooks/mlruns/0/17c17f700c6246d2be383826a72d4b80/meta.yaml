@@ -1,0 +1,14 @@
+artifact_uri: file:///home/marcos/mle-specialization-02/notebooks/mlruns/0/17c17f700c6246d2be383826a72d4b80/artifacts
+end_time: 1756059626632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17c17f700c6246d2be383826a72d4b80
+run_name: Baseline - Dummy Classifier - Con MAS métricas
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756059626627
+status: 4
+tags: []
+user_id: marcos
